@@ -7,3 +7,6 @@ full_name2 = '{} {} {}'.format(name1, name2, full_name)
 print(full_name)
 print(full_name1)
 print(full_name2)
+#using end
+print("Hello welcome to my Channel, my name is ",end="")
+print("David")
