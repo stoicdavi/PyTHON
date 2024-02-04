@@ -1,7 +1,7 @@
 #number guesing game
 import random
 print("Welcome to the number guessing game!")
-number = random.randint(20, 30)
+number = random.randint(20, 25)
 guess = int(input("Enter your guess: "))
 if guess == number:
     print("Congratulations! You guessed the number!")
