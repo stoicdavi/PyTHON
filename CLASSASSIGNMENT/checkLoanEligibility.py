@@ -1,3 +1,4 @@
+#a code to check if a user is eligible for a loan
 userName = input("Enter your name: ")
 annualIncome = int(input("What is your annual income? "))
 age = int(input("What is your age? "))
