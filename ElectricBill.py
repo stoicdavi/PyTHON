@@ -20,4 +20,4 @@ if totalCharge >= 400:
     totalCharge1 = totalCharge * 0.15
     print("Customer ID: {} \nUnits Consumed: {}\nCustomer Name: {}\nTotal charge: Ksh. {}".format(CustomerId,UnitConsumed,CustomerName, totalCharge + totalCharge1))
 else:
-    print("Dear {} your total charge is {}".format(CustomerName, totalCharge))
+    print("Customer ID: {} \nUnits Consumed: {}\nCustomer Name: {}\nTotal charge: Ksh. {}".format(CustomerId,UnitConsumed,CustomerName, totalCharge))
