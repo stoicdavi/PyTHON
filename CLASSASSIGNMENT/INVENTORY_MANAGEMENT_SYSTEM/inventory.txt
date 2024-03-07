@@ -1,0 +1,5 @@
+Product ID: Maize
+Name: 32323
+Quantity in Stock: 400
+Unit Price: 100.0
+Expiry Date: 2024-05-03 00:00:00
